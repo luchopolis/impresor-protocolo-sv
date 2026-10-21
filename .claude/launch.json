@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "protocolab",
+      "runtimeExecutable": "/Users/lacgdev/Documents/protocolab/.tools/node/bin/node",
+      "runtimeArgs": ["server/dist/index.js"],
+      "port": 3001
+    }
+  ]
+}
